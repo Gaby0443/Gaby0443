@@ -7,7 +7,8 @@ I'm interested in **algorithms, backend development, cloud technologies and engi
 ## Selected Projects & Contributions
 
 ### Ford-Fulkerson Interactive Visualizer
-Team algorithmic project.
+*Academic team project*
+
 Interactive implementation of the Ford-Fulkerson / Edmonds-Karp method for solving maximum-flow problems in directed graphs.
 
 **Technologies:** Python, Flask, JavaScript, D3.js  
@@ -18,6 +19,7 @@ Interactive implementation of the Ford-Fulkerson / Edmonds-Karp method for solvi
 ---
 
 ### Metallurgical Mass-Balance Analysis
+*Independent project*
 Independent Java prototype for metallurgical mass-balance calculations and numerical data adjustment.
 
 **Technologies:** Java 21, Maven, CSV processing, numerical methods  
@@ -28,6 +30,7 @@ Independent Java prototype for metallurgical mass-balance calculations and numer
 ---
 
 ### Impulso360 — Virtual Appointment Platform
+*Academic team project*
 Full-stack academic project developed within a GitHub organization, including frontend, backend, landing page, technical documentation and supporting coursework.
 
 **Technologies:** Java, Spring Boot, Angular, REST APIs, MySQL, Google Cloud  
@@ -38,6 +41,7 @@ Full-stack academic project developed within a GitHub organization, including fr
 ---
 
 ### HydroSmart — IoT Water Management Platform
+*Academic team project*
 Full-stack academic platform designed to model water-consumption monitoring through IoT devices.
 
 **Technologies:** C#, .NET, Vue.js, REST APIs  
